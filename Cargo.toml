@@ -1,0 +1,8 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Sylvain STEPHANT <sylvain.stephant@sncf.fr>"]
+
+[dependencies]
+mqtt311 = "0.1.4"
+mqttc = "0.1.4"
